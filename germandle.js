@@ -37,12 +37,6 @@ var words = [
         "real": true   
     },
     {
-        "word": "Backpfeifengesicht",
-        "type": "noun",
-        "def": "a face that's badly in need of a fist",
-        "real": true   
-    },
-    {
         "word": "Wortfindungsfähigkeit",
         "type": "noun",
         "def": "the german's ability to construct new words (for ridiculous things)",
