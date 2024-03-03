@@ -103,9 +103,9 @@ var words = [
             "real": false
         },
         {
-            "word": "Tanzmarmelade",
+            "word": "Pükchen",
             "type": "noun",
-            "def": "'dance jam', a sweet spread that seems to inspire spontaneous dance moves",
+            "def": "'pookie', a pookie is your day 1 fatty ❤️",
             "real": false
         },
         {
